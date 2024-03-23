@@ -1,0 +1,6 @@
+Text Manipulation operation
+.............................
+Concatenation: start and end.
+Extraction: extract substring.
+Replacing: characters
+ 
